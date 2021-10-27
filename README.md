@@ -6,7 +6,7 @@ This repository should be used after obtaining the file "***vocab.csv***" from [
 
 **Requeriments:**
 
-- Python 3 or above.
+- Python 3.
 - The python module: [Selenium.](https://selenium-python.readthedocs.io/installation.html "Selenium.")
 
 The script was only tested in Windows. Please feel free to clone/fork the repo and use it in your own S.O.
