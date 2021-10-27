@@ -1,6 +1,6 @@
 This was an old script that I used to create a csv to import into Anki.
 
-# Vocab Dictionary Scrap to csv.
+# Vocab Dictionary Scraper to csv.
 
 This repository should be used after obtaining the file "***vocab.csv***" from [this another script.](https://github.com/Nahlez/Add-new-vocabulary-to-a-csv "this another script.")
 
