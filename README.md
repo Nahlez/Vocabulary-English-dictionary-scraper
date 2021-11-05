@@ -4,7 +4,7 @@ This was an old script that I used to create a csv to import into Anki.
 
 This repository should be used after obtaining the file "***vocab.csv***" from [this another script.](https://github.com/Nahlez/Add-new-vocabulary-to-a-csv "this another script.")
 
-**Requeriments:**
+**Dependencies:**
 
 - Python 3.
 - The python module: [Selenium.](https://selenium-python.readthedocs.io/installation.html "Selenium.")
